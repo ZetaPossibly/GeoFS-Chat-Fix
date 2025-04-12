@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Chat Fix
 // @namespace
-// @version      0.0.1
+// @version      0.0.2
 // @description  Fixes the removal of the t keybind for opening the chat window in GeoFS.
 // @author       Zeta
 // @license      
