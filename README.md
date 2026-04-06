@@ -6,4 +6,4 @@ Recently the "t" keybind to open the chat dialogue was removed. This script adds
 
 Paste directly into console or use tampermonkey. Make sure you are logged into an account and multiplayer and chat is enabled in the settings.
 
-NOTE: this script was made in like 10 minutes, its not tested anywhere. DM me on Discord @zetainbeta_43414 if you encounter any issues!
+DM me on Discord @zetainbeta_43414 if you encounter any issues!
